@@ -1,0 +1,11 @@
+#include<stdio.h>
+ int main()
+ {
+     //vagshas nirnoya % used korte hoy.
+     int a,b,reamainder;
+     printf("Enter the value of a b\n");
+     scanf("%d %d",&a,&b);
+     reamainder=a%b;
+     printf("the reamainder number is:%d\n");
+     return 0;
+ }
