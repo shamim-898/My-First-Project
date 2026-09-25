@@ -1,0 +1,8 @@
+#include<stdio.h>
+ int main()
+ {
+    float num1=4.5,num2=6.2,num3=7.8,Average;
+    Average=(num1+num2+num3)/3;
+    printf("the average number is:%f\n",Average);
+    return 0;
+ }
